@@ -1,0 +1,3 @@
+Each shape has properties, AND and and
+each shape may be drawn with a
+different Char. char
